@@ -1,0 +1,4 @@
+moviepy
+pygame
+pytest
+pytest-mock
